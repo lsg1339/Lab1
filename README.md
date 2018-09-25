@@ -3,6 +3,6 @@ Leonardo Garcia
 Lab 1
 
 Help Received:
-  cplusplus.com
+  cplusplus.com and 
   classmates
   
